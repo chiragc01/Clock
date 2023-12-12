@@ -1,1 +1,2 @@
-# First simple working clock made from js
+#Clock
+First simple working clock made from js
